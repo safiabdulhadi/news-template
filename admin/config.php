@@ -1,6 +1,6 @@
 <?php
 // create url connection
-$hostname = "http://localhost/news-site";
+$hostname = "http://localhost/news-template";
 // Connection Variables
 $host = "localhost";
 $user = "root";
